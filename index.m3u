@@ -1,26 +1,26 @@
 #EXTM3U
 
-#PLAYLIST:РУССКОЕ
-#EXTINF:-1
-#EXTGRP:RU_LANG
+#PLAYLIST:IPTV LIST
+#EXTINF:-1, РУССКОЕ
+#EXTGRP:РУССКОЕ ТВ
 https://iptv-org.github.io/iptv/languages/rus.m3u
 
-#PLAYLIST:УКРАИНСКОЕ
-#EXTINF:-1
-#EXTGRP:UA_LANG
+
+#EXTINF:-1, УКРАИНСКОЕ
+#EXTGRP:УКРАИНСКОЕ ТВ
 https://iptv-org.github.io/iptv/languages/ukr.m3u
 
-#PLAYLIST:МОЛДАВСКОЕ
-#EXTINF:-1
-#EXTGRP:MD_LANG
+
+#EXTINF:-1, МОЛДАВСКОЕ
+#EXTGRP:МОЛДАВСКОЕ ТВ
 https://iptv-org.github.io/iptv/countries/md.m3u
 
-#PLAYLIST:РОССИЯ
-#EXTINF:-1
-#EXTGRP:RU_CO
+
+#EXTINF:-1, РОССИЯ
+#EXTGRP:РОССИЯ ТВ
 https://iptv-org.github.io/iptv/countries/ru.m3u
 
-#PLAYLIST:УКРАИНА
-#EXTINF:-1
-#EXTGRP:UA_CO
+
+#EXTINF:-1, УКРАИНА
+#EXTGRP:УКРАИНА ТВ
 https://iptv-org.github.io/iptv/countries/ua.m3u
